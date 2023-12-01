@@ -16,7 +16,10 @@
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
-
+La différence entre ces deux API c'est que GraphQL permet d'appelé seulement les données voulu par l'utilisateur et donc ne provoque pas une sous-charge ou surcharge de données. contrairement à REST qui ne renvoi que des données fixes.
+Un schéma est composé d'une collection de types et de relations qui permettent à ces type de communiquer entre eux.
+Une Query ou requête en français permet d'appeler les données sans avoir un surplus de données.
+Une mutation sert aux changement des données (ajout, suppression, modification).
 ### Utilisation dans un projet ❌ / ✔️
 
 [lien github](...)
